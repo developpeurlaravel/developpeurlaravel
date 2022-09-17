@@ -2,7 +2,7 @@
 <h3 align="center">A passionate fullstack developer from Madagascar</h3>
 
 <img class="fit-picture"
-     src="https://tenor.com/view/xero-code-code-xer0-code_xer0-code-xero-gif-24040429"
+     src="https://cdn.videoplasty.com/animation/chill-coding-programming-lo-fi-animation-stock-animation-21874-1024x576.jpg"
      alt="Coding is my life" width="400">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=developpeurlaravel&label=Profile%20views&color=0e75b6&style=flat" alt="developpeurlaravel" /> </p>
